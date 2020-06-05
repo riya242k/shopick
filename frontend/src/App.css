@@ -1,0 +1,27 @@
+.outer{
+  border:2px solid black;
+ height:500px;
+ width: 650px;
+ background-color: #eee;
+}
+.outer1{
+  border:2px solid black;
+ height:700px;
+ width: 650px;
+ background-color: #eee;
+}
+.inner{
+  border:2px solid black;
+  background-color: white;
+  height:620px;
+
+}
+.plus-icon{
+  background-color: black;
+  color: white;
+  border-radius: 50;
+}
+.heading{
+  background-color: aquamarine;
+  text-align: center;
+}

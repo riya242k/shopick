@@ -1,0 +1,22 @@
+
+
+.outer{
+    border:2px solid black;
+    /* text-align: center; */
+   height:500px;
+   width: 650px;
+   margin-top:60px ;
+   background-color: #eee;
+  }
+  .plus-icon{
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    width: 30px;
+    height:30px;
+    font-size: large;
+    text-align: center;
+  }
+  .heading{
+    background-color: aquamarine;
+  }
